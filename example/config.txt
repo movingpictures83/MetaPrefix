@@ -1,0 +1,2 @@
+Prefix plugins/MetaPrefix/example/
+Plugin MetaPrefix inputfile parameters.txt outputfile metadata.csv
